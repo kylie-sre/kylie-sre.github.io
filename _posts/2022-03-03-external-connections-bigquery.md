@@ -8,7 +8,7 @@ While doing more work to expose/export data for UGS one of the tools I used was 
 
 They do the job well but have a few drawbacks. They will be a good tool for keeping progress moving while develop better solutions for customers
 
-## The Benefits :smile_cat:
+## The Benefits 😺
 
 ### It's quick and relatively easy to set up
 
@@ -26,7 +26,7 @@ Once it's configured we aren't on the hook for updating anything should the data
 
 The consuming customer doesn't have to write any custom code to interact with this connection; it's likely that in the event we make the data accessible via another method that the same query could be used -- hopefully limiting disruption for the customer.  
 
-## The Drawbacks :crying_cat_face:
+## The Drawbacks 😿
 
 ### Requires giving external service accounts a very broad set of permissions
 
@@ -53,6 +53,6 @@ This ensures that the user that gets used for the connection can only perform `S
 
 There does not appear to be support for creating these in the Google Terraform provider and Google does not expose an API to use either. They can only be created in the console. It isn't a difficult task, but it can't be automated as of time of writing.
 
-## Conclusion
+## Conclusion 😼
 
 As a tool external connections are a great way to expose our data to users in a pretty simple to follow process. If there is external user/team that needs access to our data this is a good way to give them access quickly so that they aren't blocked while we work with them to develop a more robust solution. This also gives us the ability to get a feel for their use cases and how use our data. It doesn't seem like there is anything deal breaking about using it for production however, it is my opinion that we should really make an effort to find a more robust solution for final products and use these external connections as a means of getting the data available to the customer. the goal being to give them the ability to begin testing their side of the process ASAP. It's possible maybe even likely that the customers asking for data will have a lot more work to do with it once they get it. We don't want to be a bottleneck for them.
