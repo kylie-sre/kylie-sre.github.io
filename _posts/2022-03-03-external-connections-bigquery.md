@@ -6,7 +6,7 @@ While doing more work to expose/export data for UGS one of the tools I used was 
 
 ## TL; DR
 
-They do the job well but have a few drawbacks. They will be a good tool for keeping progress moving while develop better solutions for customers
+They do the job well but have a few drawbacks. They will be a good tool for keeping progress moving while we develop better solutions for customers
 
 ## The Benefits 😺
 
