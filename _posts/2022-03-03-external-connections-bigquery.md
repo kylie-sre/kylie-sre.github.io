@@ -2,6 +2,7 @@
 title: External SQL Connections In Big Query 
 type: article
 url: https://kylie-sre.github.io/2022/03/03/external-connections-bigquery.html
+image: https://kylie-sre.github.io/images/sabotabby.png
 ---
 
 # External SQL Connections In Big Query
