@@ -1,0 +1,14 @@
+# Setup
+name:         Anarcho-Software
+tagline:      A responsive theme for your project on GitHub Pages
+domain: kylie-sre.github.io
+url: https://kylie-sre.github.io
+baseurl:      ""
+locale:       "en"
+
+# Gems
+gems:
+  - jekyll-paginate
+
+#Others
+markdown: kramdown
